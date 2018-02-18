@@ -1,3 +1,7 @@
-# Materials Classification by Machine Learning
+# Machine learning on materials research
 
-This project is to establish the materials classification model by machine learning. 
+Apply machine learning for different materials research problems.
+
+1.  Functional materials classification;
+2.  Predictions of bandgap and formation energy;
+3.  Material filter by phonon spectrum.
